@@ -1,1 +1,17 @@
-/* stylesheet */
+#output{
+    font-size: 10em;
+    color: red;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 69px;
+}
+
+body{
+    background-image: linear-gradient(black,white);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
